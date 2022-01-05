@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: My Hackathon Project
+title: Lab Exam
 ---
 ## These are 3 of my best and worst experiences during this semester 
 
